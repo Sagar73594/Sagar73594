@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 ## I'm a Tinkerer , Embedded Developer, and an Introvert!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about Embedded Stuff.
 - 📫 How to reach me: www.linkedin.com/in/sagar73594/
 - ⚡ Fun fact: I love to draw and skateboarding, and also read more about Mahabharat.
