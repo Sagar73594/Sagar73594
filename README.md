@@ -48,8 +48,3 @@ Here are some ideas to get you started:
 
 
 ---
-
-</details>
-
-[website]: https://codeSTACKr.com
-[linkedin]: https://www.linkedin.com/in/sagar73594/
