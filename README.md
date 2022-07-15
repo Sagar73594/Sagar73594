@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about Embedded Stuff.
+- 📫 How to reach me: https://www.linkedin.com/in/sagar73594/
 - ⚡ Fun fact: I love to draw and skateboarding, and also read more about Mahabharat.
 
 
@@ -41,9 +42,10 @@ Here are some ideas to get you started:
 #[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
 -->
 
+<!-- Use this for More space in between
 <br />
 <br />
-
+-->
 ---
 
 
