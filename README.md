@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about Embedded Stuff.
-- 📫 How to reach me: https://www.linkedin.com/in/sagar73594/
+- 📫 How to reach me: www.linkedin.com/in/sagar73594/
 - ⚡ Fun fact: I love to draw and skateboarding, and also read more about Mahabharat.
 
 
-## Languages:
+## Programming Languages:
 - ### C, Embedded C, Python, Bash Shell.
 
 ## Development Tools: 
@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 <br />
 -->
 ---
-
+## Hardware Platforms: 
+- ### Atmel AVR, ESP8266/ESP32, Arduino Nano/Uno/Mega, STM32F103/4, STMH7A3, BeagleBone Black, TeesnyLC/3.5/3.6/4.0/4.1, Raspberry Pi Pico, Raspberry Pi3/4/400CM4, Nvidia Jetson Nano/ Xavier NX Developer Kit.
 
 ---
