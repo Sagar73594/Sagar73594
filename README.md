@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, This is Sagar👋 
+# This is Sagar. 
 
 
 
@@ -30,17 +30,13 @@ Here are some ideas to get you started:
 
 
 ## Programming Languages:
--### C, Embedded C, Python, Bash Shell.
+- ### C, Embedded C, Python, Bash Shell.
 
 ## Development Tools: 
 - ### Eclipse, STMCube IDE, Proteus, Keil uVision, Visual studio, P-Spice.
 
 ## EDA Tools: 
 - ### KiCAD, EasyEDA, FreeCAD.
-<!--
-#[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
-#[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
--->
 
 <!-- Use this for More space in between
 <br />
