@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to draw and skateboarding, and also read more about Mahabharat.
 
 
-## Programming Languages-
+## Programming Languages:
+
 - ### C, Embedded C, Python, Bash Shell.
 
 ## Development Tools: 
