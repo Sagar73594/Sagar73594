@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 ## Programming Languages:
-- ### C, Embedded C, Python, Bash Shell.
+- ### C, Python, Bash Shell.
 
 ## Development Tools: 
 - ### Eclipse, STMCube IDE, Proteus, Keil uVision, Visual studio, P-Spice.
