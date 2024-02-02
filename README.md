@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 
 
 
-## I'm a Tinkerer , Embedded Developer, and an Introvert!!
+## I'm a Tinkerer, Embedded Developer, and an Introvert!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more about Embedded Stuff.
+- 🥅 2024 Goals: Learn more about Embedded Stuff.
 - 📫 How to reach me: www.linkedin.com/in/sagar73594/
-- ⚡ Fun fact: I love to draw and skateboarding, and also read more about Mahabharat.
+- ⚡ Fun fact: I love to draw, skateboard, and read more about Mahabharat.
 
 
 ## Programming Languages:
