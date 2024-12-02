@@ -46,3 +46,17 @@ Here are some ideas to get you started:
 - ### Atmel AVR, ESP8266/ESP32, Arduino Nano/Uno/Mega, STM32F103/4, STMH7A3, BeagleBone Black, TeesnyLC/3.5/3.6/4.0/4.1, Raspberry Pi Pico, Raspberry Pi3/4/400CM4, Nvidia Jetson Nano/ Xavier NX Developer Kit.
 
 ---
+
+Sagar73594/README
+<p align="center">
+  <img height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sleepymalc&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=sleepymalc&layout=compact&langs_count=8&theme=dracula" />
+</p>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+    <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+</p>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/sleepymalc/count.svg" />
+</p>
