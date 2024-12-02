@@ -1,4 +1,12 @@
 ### Hi there 👋
+<p align="center">
+    <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+    <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+</p>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Sagar73594/count.svg" />
+</p>
+
 
 <!--
 **Sagar73594/Sagar73594** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,12 +54,3 @@ Here are some ideas to get you started:
 - ### Atmel AVR, ESP8266/ESP32, Arduino Nano/Uno/Mega, STM32F103/4, STMH7A3, BeagleBone Black, TeesnyLC/3.5/3.6/4.0/4.1, Raspberry Pi Pico, Raspberry Pi3/4/400CM4, Nvidia Jetson Nano/ Xavier NX Developer Kit.
 
 ---
-
-Sagar73594/README
-<p align="center">
-    <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-    <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
-</p>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Sagar73594/count.svg" />
-</p>
