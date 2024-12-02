@@ -53,5 +53,5 @@ Sagar73594/README
     <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
 </p>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/sleepymalc/count.svg" />
+  <img src="https://profile-counter.glitch.me/Sagar73594/count.svg" />
 </p>
