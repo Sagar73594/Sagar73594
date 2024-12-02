@@ -1,4 +1,13 @@
 ### Hi there 👋
+# This is Sagar. 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+    <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+</p>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Sagar73594/count.svg" />
+</p>
+
 
 <!--
 **Sagar73594/Sagar73594** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +23,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# This is Sagar. 
-
-
-
 
 ## I'm a Tinkerer, Embedded Developer, and an Introvert!!
 
